@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="SHOW_STRUCTURE" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba39b177-2063-42ee-9f8e-824f077e3015" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lolivares/Page/AmazonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lolivares/Page/MagentoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lolivares/Page/TravelsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lolivares/Test/AmazonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lolivares/Test/MagentoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lolivares/Test/TravelsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/dictionaries/lisandra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/libraries/libs__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/ITestContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/Proyecto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/Proyecto.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/byte-buddy-1.8.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/client-combined-3.141.59-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/client-combined-3.141.59.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/com.springsource.javax.media.jai.codec-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/com.springsource.javax.media.jai.core-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/commons-exec-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/commons-io-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/commonsio-2.6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/guava-25.0-jre.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/itext-2.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/jmf-2.1.1e.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/monte-repack-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/okhttp-3.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/okio-1.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/libs/testng-7.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/out/production/Proyecto/META-INF/Proyecto.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/screenshot-1497242880.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/src/test/java/Estudio/Page/AmazonPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/src/test/java/Estudio/Page/MagentoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/src/test/java/Estudio/Page/TravelsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/src/test/java/Estudio/Test/AmazonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/src/test/java/Estudio/Test/MagentoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/src/test/java/Estudio/Test/TravelsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/Estudio.Test.MagentoTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/Surefire suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/TEST-Estudio.Test.MagentoTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/junitreports/TEST-Estudio.Test.MagentoTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/test-classes/Estudio/Page/AmazonPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/test-classes/Estudio/Page/MagentoPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/test-classes/Estudio/Page/TravelsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/test-classes/Estudio/Test/AmazonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/test-classes/Estudio/Test/MagentoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/target/test-classes/Estudio/Test/TravelsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/testng.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="193" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Proyecto" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zho2Be7gvxDSIv1hcXKKckrYDc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/lolivares" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lisandra\IdeaProjects\Proyecto\src\Prueba" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Estudio" />
+      <recent name="com.alojamiento" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lisandra\IdeaProjects\Proyecto\src\com\alojamiento" />
+      <recent name="C:\Users\lisandra\IdeaProjects\Proyecto\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MagentoTest (1)">
+    <configuration name="Proyecto" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prueba.Proyecto" />
+      <module name="Proyecto" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Proyecto" />
+      <module name="Proyecto" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlojamientoTest" type="TestNG" nameIsGenerated="true">
+      <module name="Proyecto" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.alojamiento" />
+      <option name="MAIN_CLASS_NAME" value="com.alojamiento.AlojamientoTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Estudio.Page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Estudio" />
+      <option name="MAIN_CLASS_NAME" value="Estudio.Test.AmazonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/lisandra/IdeaProjects/Proyecto/src/Prueba/ITestContext.xml" type="TestNG" nameIsGenerated="true">
+      <module name="Proyecto" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/Prueba/ITestContext.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Descargar" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Robot" />
+      <option name="MAIN_CLASS_NAME" value="Robot.Descargar" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagentoTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lolivares.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lolivares.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.lolivares.Test.MagentoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagentoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Estudio.Test" />
+      <option name="MAIN_CLASS_NAME" value="Estudio.Test.MagentoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Estudio.Test" />
+      <option name="MAIN_CLASS_NAME" value="Estudio.Test.TravelsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Proyecto" />
+      <item itemvalue="TestNG.C:/Users/lisandra/IdeaProjects/Proyecto/src/Prueba/ITestContext.xml" />
+      <item itemvalue="TestNG.AlojamientoTest" />
+      <item itemvalue="TestNG.AmazonTest" />
+      <item itemvalue="TestNG.TravelsTest" />
+      <item itemvalue="TestNG.Descargar" />
+      <item itemvalue="TestNG.MagentoTest" />
+      <item itemvalue="TestNG.MagentoTest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MagentoTest (1)" />
+        <item itemvalue="TestNG.MagentoTest" />
+        <item itemvalue="TestNG.Descargar" />
+        <item itemvalue="TestNG.TravelsTest" />
+        <item itemvalue="TestNG.AmazonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba39b177-2063-42ee-9f8e-824f077e3015" name="Default Changelist" comment="" />
+      <created>1585300476674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585300476674</updated>
+      <workItem from="1585302275921" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Project_Structure" timestamp="1585750754227">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1585750754227" />
+    <state x="339" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586621204745">
+      <screen x="101" y="0" width="1499" height="900" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1585489918555" />
+    <state x="339" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/101.0.1499.900@101.0.1499.900" timestamp="1586621204745" />
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585399601796">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1585399601796" />
+    <state x="439" y="117" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585769416221">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="439" y="117" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1600.860@0.0.1600.860" timestamp="1585769416221" />
+    <state x="605" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1585564569169">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1585564569169" />
+    <state x="530" y="205" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585473316450">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="205" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1585473316450" />
+    <state x="529" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585473326710">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="529" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1585473326710" />
+    <state x="523" y="118" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585748423429">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="523" y="118" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.860@0.0.1600.860" timestamp="1585748423429" />
+    <state x="487" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586689139963">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="487" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1586689139963" />
+    <state x="596" y="289" width="407" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586689097418">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="289" width="407" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1586689097418" />
+    <state x="596" y="310" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586689142167">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="310" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.860@0.0.1600.860" timestamp="1586689142167" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585564028981">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1585564028981" />
+    <state x="589" y="138" width="853" height="595" key="#xdebugger.evaluate" timestamp="1585493345892">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="589" y="138" width="853" height="595" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1585493345892" />
+    <state x="558" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585749814769">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="558" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1585749814769" />
+    <state width="379" height="466" key="DebuggerActiveHint" timestamp="1585492035906">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="379" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1585492035906" />
+    <state x="534" y="191" key="EnvironmentVariablesDialog" timestamp="1585301520507">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="534" y="191" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1585301520507" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1586365665385">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586365665385" />
+    <state x="622" y="345" key="Github.CreateGistDialog" timestamp="1586700162079">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="622" y="345" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1586700162079" />
+    <state width="1601" height="207" key="GridCell.Tab.0.bottom" timestamp="1586689489139">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="207" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586689489139" />
+    <state width="1529" height="207" key="GridCell.Tab.0.bottom/72.0.1528.900@72.0.1528.900" timestamp="1586622462258" />
+    <state width="1601" height="207" key="GridCell.Tab.0.center" timestamp="1586689489139">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="207" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586689489139" />
+    <state width="1529" height="207" key="GridCell.Tab.0.center/72.0.1528.900@72.0.1528.900" timestamp="1586622462257" />
+    <state width="1601" height="207" key="GridCell.Tab.0.left" timestamp="1586689489139">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="207" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586689489139" />
+    <state width="1529" height="207" key="GridCell.Tab.0.left/72.0.1528.900@72.0.1528.900" timestamp="1586622462257" />
+    <state width="1601" height="207" key="GridCell.Tab.0.right" timestamp="1586689489139">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="207" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586689489139" />
+    <state width="1529" height="207" key="GridCell.Tab.0.right/72.0.1528.900@72.0.1528.900" timestamp="1586622462258" />
+    <state width="1601" height="284" key="GridCell.Tab.1.bottom" timestamp="1585864380523">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="284" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585864380523" />
+    <state width="1601" height="284" key="GridCell.Tab.1.center" timestamp="1585864380523">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="284" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1585864380523" />
+    <state width="1601" height="284" key="GridCell.Tab.1.left" timestamp="1585864380523">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="284" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1585864380523" />
+    <state width="1601" height="284" key="GridCell.Tab.1.right" timestamp="1585864380523">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="284" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1585864380523" />
+    <state x="330" y="84" key="Maven.ArtifactSearchDialog" timestamp="1586688718373">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="84" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1586688718373" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1586682748901">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586682748901" />
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1586685078013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586685078013" />
+    <state x="497" y="28" width="606" height="804" key="find.popup" timestamp="1585731336957">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="497" y="28" width="606" height="804" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1585731336957" />
+    <state x="182" y="50" key="new project wizard" timestamp="1585390402139">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1585390402139" />
+    <state x="456" y="197" key="run.anything.popup" timestamp="1585301793721">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="197" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1585301793721" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Proyecto$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1585314970117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

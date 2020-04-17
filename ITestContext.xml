@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Suite Group">
+    <test name="Test A">
+        <groups>
+            <run>
+            <include name="A"/>
+            </run>
+            <classes>
+                <class name="DataProvider.ParametrosByITestContext"/>
+            </classes>
+        </groups>
+    </test>
+    <test name="Test B">
+        <groups>
+            <run>
+                <include name="B"/>
+            </run>
+            <classes>
+                <class name="DataProvider.ParametrosByITestContext"/>
+            </classes>
+        </groups>
+    </test>
+</suite>
